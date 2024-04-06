@@ -12,7 +12,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "https://1drv.ms/u/s!AgFKJJB-FH8Gj0U03TDUrSRHket7?e=SBLGvX"
+        description: "Direct URL to the decrypted YouTube ipa. The version of YouTube will be detected automatically."
         default: ""
         required: true
         type: string
