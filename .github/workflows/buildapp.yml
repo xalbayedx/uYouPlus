@@ -12,7 +12,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "https://drive.google.com/file/d/1-qaoua-F6vIfg5CgJKGxcY6wKC4Q1XaB/view?usp=sharing"
+        description: "https://drive.google.com/file/d/19drHA3WIYKGUO66T5O0jOrHXYTup0UPI/view?usp=sharing"
         default: ""
         required: true
         type: string
